@@ -6,7 +6,7 @@
 */
 
 var titleFont = "";
-var titleFontLink ="";
+var titleFontLink = "";
 var bodyFont = "";
 var bodyFontLink = "";
 var bgColor = "";
